@@ -2841,8 +2841,6 @@ input, select, textarea {
 			background-attachment: fixed,							fixed;
 			background-image: linear-gradient(45deg, #000428, #734b6d);
 			background-size: auto,							cover;
-			height: 100vh;
-			padding-top: 55px;
 		}
 
 			.main.style2 a {
